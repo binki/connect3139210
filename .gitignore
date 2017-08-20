@@ -1,0 +1,9 @@
+*~
+*.swp
+*\#*
+
+packages
+bin
+obj
+.vs
+*.user
