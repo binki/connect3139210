@@ -1,5 +1,7 @@
 A repro of [connect
 #3139210](https://connect.microsoft.com/VisualStudio/feedback/details/3139210)
+(cross-posted to
+[Microsoft/dotnet#579](https://github.com/Microsoft/dotnet/issues/579))
 and [SO #45597995](https://stackoverflow.com/questions/45597995).
 
 I am uploading this as a git repo to GitHub because my attempted file
