@@ -15,3 +15,5 @@ even though I tried twice.
 2. Run.
 3. Try interacting with the window about 5 seconds after it launches.
    Notice how the window becomes “ (Not Responding)”.
+
+**UPDATE**: After filing a “Technical Support” incident through a VS subscription, @Microsoft has acknowledged this bug and stated that a fix will be included in .net-4.7.3.
